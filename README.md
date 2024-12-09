@@ -1,6 +1,6 @@
-# To-Do Reminder App
+# To-Do App
 
-A simple To-Do reminder app that exposes RESTful APIs for adding, displaying, editing, deleting tasks, and deleting all tasks.
+A simple To-Do app that exposes RESTful APIs for adding, displaying, editing, deleting tasks, and deleting all tasks.
 
 ## Features
 
